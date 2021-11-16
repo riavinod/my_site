@@ -4,7 +4,7 @@
 
 ---
 kind: dns#resourceRecordSet
-name: 'riavinod.com.riavinod.com.'
+name: 'www.riavinod.com.'
 rrdatas:
 - 'riavinod.github.io.'
 ttl: 3600
