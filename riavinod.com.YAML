@@ -6,6 +6,6 @@
 kind: dns#resourceRecordSet
 name: 'www.riavinod.com.'
 rrdatas:
-- 'riavinod.github.io/my_site.'
+- 'riavinod.github.io.'
 ttl: 3600
 type: CNAME
